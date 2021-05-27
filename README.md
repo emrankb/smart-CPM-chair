@@ -1,1 +1,1 @@
-# smart-CPM-chair
+Learn more at http://smartcpmchair.info/
