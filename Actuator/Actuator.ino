@@ -1,3 +1,6 @@
+// Author: Emran Kebede
+// Code for linear actuator
+
 #include <Wire.h>
 #include <stdlib.h>
 #include "HX711.h"
